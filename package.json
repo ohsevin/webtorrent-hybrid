@@ -14,7 +14,7 @@
   "dependencies": {
     "create-torrent": "^3.23.1",
     "electron-webrtc": "^0.3.0",
-    "webtorrent": "0.x",
+    "webtorrent": "2.x",
     "webtorrent-cli": "^1.0.1"
   },
   "devDependencies": {
